@@ -2,7 +2,7 @@
 
 why not setup vpc???
 what do we have to lose?
-this was just like lambda
+this was just like lambda Mright
 
 ```
 /aws
